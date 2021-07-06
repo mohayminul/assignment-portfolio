@@ -1,6 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
-    margin: 0%;
+    padding: 2%;
 }
 
 .intro-section{
@@ -10,6 +10,9 @@ body{
 
 .tomato-color{
     color: tomato;
+}
+.white-color{
+    color: white;
 }
 h1{
     font-size: 65px;
@@ -28,7 +31,7 @@ p{
 
 .half-width{
     width: 50%;
-    padding: 2%;
+    
 
 }
 
@@ -45,6 +48,7 @@ p{
     border-radius: 20vh;
     font-weight: 700;
 }
+
 .top-banner{
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
@@ -96,7 +100,10 @@ footer p{
 footer h2{ 
     text-align: center;
 }
-
+footer, 
+footer * { 
+	background-color: black;
+}
 #my-recepie-align{
     text-align: center;
 }
