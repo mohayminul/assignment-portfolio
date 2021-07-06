@@ -31,14 +31,10 @@ p{
 
 .half-width{
     width: 50%;
-    
-
 }
 
 #scnd-image img{
     width: 58.2%;
-    
-
 }
 .button{
     text-decoration: none;
@@ -48,19 +44,15 @@ p{
     border-radius: 20vh;
     font-weight: 700;
 }
-
 .top-banner{
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
 }
-
 .terminal-img{
     width: 99%;
     height: 50%;
     border-radius: 4vh;
-
 }
-
 .experience-item{
     width: 33%; 
     height: 500px ;
@@ -74,25 +66,15 @@ p{
 #left-align {
     
     text-align:left;
-    padding: 8%;
-   
-    
+    padding: 8%;   
     }
-#center-align {
-    
-    
+#center-align {  
     text-align:center;
     padding: 8%;
-    
-
     }
-#right-align {
-    
-    
+#right-align {  
     text-align:right;
     padding: 8%;
-    
-
     }
 footer p{
     text-align: center;
